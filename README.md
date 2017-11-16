@@ -1,6 +1,6 @@
 # correios-rastreio
 
-Script para obter a última atualização de encomendas pelo site dos correios, utiliando técnicas de data scraping, além de manipulação de planilhas Excel para armazenamento das informações das encomendas.
+Script para obter a última atualização de encomendas pelo site dos correios, utilizando técnicas de data scraping, além de manipulação de planilhas Excel para armazenamento das informações das encomendas.
 
 ----
 ### Requisitos
@@ -8,7 +8,7 @@ Script para obter a última atualização de encomendas pelo site dos correios, 
 - Requests
 - BeautifulSoup
 - pandas
-- numpy
+- NumPy
 
 A distribuição [Anaconda](https://www.anaconda.com/distribution/) já contém todas as bibliotecas utilizadas, não sendo necessária outras instalações.
 
